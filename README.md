@@ -3,6 +3,8 @@ A web app to give a text-based overview of an unknown place - important building
 
 
 ### Brief background :-
+The project was partly executed on university computer (as it is part of my B.Tech thesis-research project) and was disorganised (scattered in parts), hence it has been completely reorganised now and uploaded on GitHub to give a pratical aspect of my research.
+""Also it has some secret API keys(for googlemaps and openai), hence not uploading here.""
 
 
 "There is an increasing need to gain awareness of a specific location to generate opportunities for individuals . They may be medical , educational , etc.​
@@ -13,8 +15,6 @@ But a need for a comprehensive and coherent summary of a place has been deemed n
 
 This leads us to the text summarization of a Location.​"
 
-The project was partly executed on university computer and was disorganised (scattered in parts), hence it has been completely reorganised now.
-""Also it has some secret API keys(for googlemaps and openai), hence not uploading here.""
 
 
 ### Prerequisites :-
