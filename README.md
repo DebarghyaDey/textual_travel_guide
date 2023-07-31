@@ -3,7 +3,7 @@ A web app to give a text-based overview of an unknown place - important building
 
 
 ### Brief background :-
-This project was my B.Tech final year major project.
+
 
 "There is an increasing need to gain awareness of a specific location to generate opportunities for individuals . They may be medical , educational , etc.​
 
